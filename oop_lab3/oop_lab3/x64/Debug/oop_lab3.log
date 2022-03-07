@@ -1,0 +1,18 @@
+﻿  oop_lab3.cpp
+C:\Users\Леночка\source\repos\oop_lab3\oop_lab3\oop_lab3.cpp(41,42): warning C4244: =: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\Леночка\source\repos\oop_lab3\oop_lab3\oop_lab3.cpp(36): message : во время компиляции функции-члена класс шаблон "Image<int,5,5>::Image(T,T)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Леночка\source\repos\oop_lab3\oop_lab3\oop_lab3.cpp(248): message : выполняется компиляция ссылки на экземпляр шаблон функции "Image<int,5,5>::Image(T,T)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Леночка\source\repos\oop_lab3\oop_lab3\oop_lab3.cpp(248): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Image<int,5,5>"
+  oop_lab3.vcxproj -> C:\Users\Леночка\source\repos\oop_lab3\x64\Debug\oop_lab3.exe
